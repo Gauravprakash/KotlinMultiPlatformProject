@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml:2:13-83
+INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml:2:13-83
+INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml:2:13-83
+	package
+		INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+		ADDED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml:2:13-83
+		INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+	xmlns:android
+		ADDED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml:2:23-81
+uses-sdk
+INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml reason: use-sdk injection requested
+INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+	android:targetSdkVersion
+		INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+		ADDED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+		INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+	android:minSdkVersion
+		INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+		ADDED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml
+		INJECTED from /home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12162144971742556789.xml

@@ -3,6 +3,6 @@
 3    package="com.example.kotlinhomeproject" >
 4
 5    <uses-sdk android:minSdkVersion="24" />
-5-->/Users/gauravprakash/AndroidStudioProjects/KotlinJetCompose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9772949746928459786.xml
+5-->/home/abhishek/AndroidStudioProjects/KotlinMultiPlatformProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7487540631084464374.xml
 6
 7</manifest>

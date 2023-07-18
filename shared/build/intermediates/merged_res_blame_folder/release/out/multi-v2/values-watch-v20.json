@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.kotlinhomeproject.shared-mergeReleaseResources-42:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/abhishek/.gradle/caches/transforms-3/b805d0170921bc29957bb307e3415353/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.kotlinhomeproject.shared-merged_res-44:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/abhishek/.gradle/caches/transforms-3/b805d0170921bc29957bb307e3415353/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
